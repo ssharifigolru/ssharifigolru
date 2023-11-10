@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samaneh, a passionate chemical/materials engineer with a PhD who recently ventured into the exciting world of data science. 
+- 👋 Hi, I’m Samaneh, a passionate chemical/materials engineer with a PhD, who recently ventured into the exciting world of data science. 
 - 👀 I’m interested in data science for technology, pharmacutical, and chemical industries.
 - 🌱 I’m currently learning more about data science, machine learning, deep learning and image processing.
 - 💞️ I’m looking to collaborate on cool data science projects.
